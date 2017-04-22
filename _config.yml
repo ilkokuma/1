@@ -5,6 +5,9 @@ title: "Shiori"
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
 
+
+disqus_name: evaktim
+
 gems:
   - jemoji
 exclude:
