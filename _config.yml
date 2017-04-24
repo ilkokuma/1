@@ -7,7 +7,7 @@ title: "Shiori"
 
 
 disqus_name: evaktim
-permalink:   /:categories/:title/
+permalink: /:categories/:title/
 
 gems:
   - jemoji
