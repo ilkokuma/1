@@ -1,7 +1,6 @@
 baseurl: "/1" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "https://ilkokuma.github.io/1" # the base hostname & protocol for your site
 title: "Shiori"
-permalink: /:categories/:title/
 
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
