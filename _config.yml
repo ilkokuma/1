@@ -8,7 +8,7 @@ permalink: /:categories/:title/
 
 
 
-permalink: /:categories/:title/
+
 
 gems:
   - jemoji
