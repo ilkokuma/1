@@ -15,6 +15,7 @@ exclude:
   - "Gemfile.lock"
 permalink: :title/
 defaults:
+disqus_name: evaktim
   -
     scope:
       path: ""
