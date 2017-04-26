@@ -16,7 +16,9 @@ layout: default
       {% include related-post.html %}
 
 
+{% if site.data.theme.show_post_navs %}
+  {% if page.previous or page.next %}
 
- 
+  
   {% endif %}
 {% endif %}
