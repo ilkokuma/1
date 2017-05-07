@@ -3,14 +3,14 @@ title: Home
 ---
 
 
-xxx
+x
 
 <ul class="posts noList">
     {% for post in paginator.posts %}
-      <li>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+      
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
-      </li>
+      
     {% endfor %}
   </ul>
 
