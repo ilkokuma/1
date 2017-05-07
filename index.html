@@ -1,33 +1,24 @@
 ---
 ---
 
-{% for post in paginator.posts %}
+---
+---
 
-	<div class="post">
-
-		{% if post.external-url %}
-			<a class="permalinkstar" rel="bookmark" title="Permanent link" href="{{ post.url }}">&#9733;</a>
-			<h2><a rel="bookmark" href="{{ post.external-url }}">{{ post.title | markdownify }}</a></h2>
-		{% else %}
-			<h2><a rel="bookmark" href="{{ post.url }}">{{ post.title }}</a></h2>
-		{% endif %}
-
-		<div class="postdateline">
-			<span class="postdate">{{ post.date | date: "%b %d, %Y" }}</span>
+<div class="gallery">
+	{% for post in paginator.posts %}
+		<div class="item">
+			<a class="item-inner" href="{{ post.url }}">
+				<div class="item-image"><img src="/thumbnails/{{ post.thumbnail }}"></div>
+				<div class="item-name">{{ post.title }}</div>
+			</a>
 		</div>
-
-		<div class="entry">
-			{{ post.content }}
-		</div>
-
-	</div>
-
-{% endfor %}
+	{% endfor %}
+</div>
 
 
 
-{% if paginator.total_pages > 1 %}
-	<div class="postnavigation">
+
+<div class="postnavigation">
 
 		{% if paginator.previous_page %}
 			{% if paginator.page == 2 %}
@@ -48,4 +39,3 @@
 		{% endif %}
 
 	</div>
-{% endif %}
