@@ -1,0 +1,28 @@
+---
+layout: default
+title: "Search "
+css: "/css/search.css"
+---
+
+## Search jasdumas.github.io with Google!
+
+<div id="google-custom-search">
+
+
+
+
+<script>
+  (function() {
+    var cx = '006894549136761307020:liwuejmnons';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+
+</div>
