@@ -6,6 +6,8 @@ title: "Eğitim Portalı, makaleler, kpss içerikleri"
 description: "Eğitim öğretim ile ilgili makaleler, dosyalar çeşitli kaynaklar sunan web günlüğü."
 
 tags:
+paginate: 2
+paginate_path: "/blog/page:num"
 
 gems:
   - jemoji
