@@ -1,35 +1,28 @@
 ---
 ---
 
-{% for post in site.posts limit:site.data.theme.num_home_posts %}
-<div class="post-header-home">
-  <h1 class="post-title-home">
-    <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
-  </h1>
-  {% include post-header-home.html %}
-</div>
+<div class="home">
+    <div class="logo-header">
+        <img src='/assets/logo.png'>
+        <h1 class="post-title">{{ site.title }}</h1>
+    </div>
 
+  <ul class="post-list">
+    {% for post in site.posts %}
+    <li>
+        <div>
+        <a class="post-link" href="{{ site.url }}{{ post.url}}">{{ post.title }}</a>
+            <span class="post-date">{{ post.date | date_to_long_string }}</span>
+        </div>
+    </li>
+    {% endfor %}
+  </ul>
 
-
-
-
-    
-
-
-
-
-
-
-
-
-<div class="post-excerpt-home">
-  {{ post.excerpt }}
-  <p class="text-right"><a href="{{ post.url | prepend:site.baseurl }}">Continue Reading &rarr;</a></p>
-</div>
-{% endfor %}
-<hr>
-<div class="home-read-more">
-  <a href="{{ "/archive" | prepend:site.baseurl }}" class="btn btn-primary btn-block btn-lg">View All {{ site.posts | size }} Articles →</a>
+    <div class="footer center">
+        Built with Jekyll using
+        <a href="https://github.com/kuoa/julia" target="_blank">Julia</a>
+        theme
+    </div>
 </div>
 
 
