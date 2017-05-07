@@ -4,7 +4,7 @@ title: "Search "
 css: "/css/search.css"
 ---
 
-## Search jasdumas.github.io with Google!
+## Search 
 
 <div id="google-custom-search">
 
