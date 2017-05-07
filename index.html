@@ -17,19 +17,10 @@ title: Home
 
 
 
-<section class="posts">
-	{% for post in paginator.posts %}
-		<article class="post">
-			{% include post-heading.html post=post %}
-			
 
-			{{ post.excerpt }}
 
-			<p><a class="button" href="{{ post.url }}">Read more</a></p>
-		</article>
-	{% endfor %}
 
-	{% if paginator.total_pages > 1 %}
+{% if paginator.total_pages > 1 %}
 		<div class="pagination">
 			{% if paginator.previous_page %}
 				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
@@ -42,4 +33,3 @@ title: Home
 			{% endif %}
 		</div>
 	{% endif %}
-</section>
