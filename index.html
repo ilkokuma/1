@@ -5,9 +5,15 @@ title: Home
 
 
 
-<article class="post-item">
-        <p><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>  — <strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> — <span> {{ post.content | strip_html | truncatewords: 40 }}</span> <a class="post-link readmore" href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
-      </article>
+<ul class="posts noList">
+    {% for post in paginator.posts %}
+      <li>
+        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
+      </li>
+    {% endfor %}
+  </ul>
 
 
 
