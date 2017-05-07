@@ -7,7 +7,7 @@ description: "Eğitim öğretim ile ilgili makaleler, dosyalar çeşitli kaynakl
 
 tags:
 paginate: 2
-paginate_path: "/blog/page:num"
+paginate_path: "/page:num"
 
 gems:
   - jemoji
