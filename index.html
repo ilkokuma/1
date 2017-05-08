@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-xxx
+
 
 
     {% for post in paginator.posts %}
@@ -22,13 +22,13 @@ xxx
 {% if paginator.total_pages > 1 %}
 		<div class="postnavigation">
 			{% if paginator.previous_page %}
-				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Eskiler</a>
+				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Yeniler</a>
 			{% endif %}
 
 			<span >{{ paginator.page }} of {{ paginator.total_pages }}</span>
 
 			{% if paginator.next_page %}
-				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Yeniler &rarr;</a>
+				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Eskiler &rarr;</a>
 			{% endif %}
 		</div>
 	{% endif %}
