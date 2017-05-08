@@ -3,40 +3,14 @@
 
 .1related-posts{background:#f6f6f6;border-radius:4px;margin-left:0;padding:4px;margin-bottom:10px;box-shadow:0 1px 3px rgba(0,0,0,0.12),0 1px 2px rgba(0,0,0,0.24)}.related-posts a{color:#333;font-weight:bold}.border-box{box-sizing:border-box}
 
-.navigation {
-	float: right;
-}
 
-.navigation a {
-	display: block;
-	float: left;
-	color: #bbbbbb;
-	font-size: 12px;
-	font-style: italic;
-	padding: 15px 20px;
-}
 
-.navigation a span {
-	display: block;
-	margin-top: -3px;
-	color: #787878;
-	font-family: Helvetica, Arial, sans-serif;
-	text-transform: uppercase;
-	font-size: 13px;
-	font-style: normal;
-}
-
-.navigation a:hover, #navigation a:hover span {
-	text-decoration: none;
-	color: #333333;
-}
-
-.1postnavigation {
+.postnavigation {
 	height: 24px;
 	text-align: center;
 }
 
-.1postnavigation a, .postnavigation span.nope {
+.postnavigation a, .postnavigation span.nope {
 	text-align: center;
 	text-decoration: none;
 	padding: 2px 8px 3px 8px;
@@ -45,11 +19,11 @@
 	border: 1px solid #dedede;
 }
 
-.1postnavigation span.nope, .postnavigation a:hover {
+.postnavigation span.nope, .postnavigation a:hover {
 	color: #232323;
 }
 
-.1postnavigation .pages {
+.postnavigation .pages {
 	padding: 2px 8px 3px 8px;
 	color: #aaabbb;
 }
