@@ -7,8 +7,7 @@
 
 .postnavigation {
 	height: 24px;
-	text-align: center;
-	padding: 2px 8px 3px 8px;
+	text-align: left;
 }
 
 .postnavigation a, .postnavigation span.nope {
