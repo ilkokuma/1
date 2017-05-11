@@ -15,27 +15,27 @@ Tutanakların hiçbir yorum ya da görüş içermemesi gerekmektedir. (bu madde 
 <div class="vurgu1">
 <p align="center"><strong>Tutanak</strong></p>
 2011/2012 Türkçe öğretmenler toplantısı 19 mayıs 2012 tarihinde saat 14:00 okul kütüphanesinde yapılmıştır.
+ap
 
-Toplantıda okul döneminde okutulacak kitaplar, öğretim metodları  , ders araç gereçleri hakkında görüşler dile getirilmiştir.
+Toplantıda okul döneminde okutulacak kitaplar, öğretim metodları  , ders araç gereçleri hakkında görüşler dile getirilmiştir.
 
 &nbsp;
 
 Toplantı tutanağı aşağıda adı, soyadı ve imzaları bulunan kişililerce tutulmuştur.
 
 &nbsp;
-<p style="text-align: justify;"><strong>Ali ARTTTTT                                                                                       Fırat SESSS</strong>
-<strong> Ders Öğretmeni                                                                               okul müdürü</strong></p>
+<p style="text-align: justify;"><strong>Ali ARTTTTT                                                                                       Fırat SESSS</strong>
+<strong> Ders Öğretmeni                                                                               okul müdürü</strong></p>
 
 </div>
 <span style="text-decoration: underline;"><strong>Ekler</strong>:</span>
 
-<img class="alignleft" title="Ekler" src="http://egitimvaktim.com/dosyalar/2012/04/zip.gif" alt="" width="16" height="16" />
 
-<a href="http://egitimvaktim.com/dosyalar/2012/04/Tutanak-Örnekleri.zip">  Tutanak Örnekleri (word halinde)</a>
+<a href="https://egitimvaktim.com/dosyalar/2016/tutanak-ornegi.docx">  Tutanak Örnekleri (word halinde)</a>
 
 &nbsp;
 <div class="vurgu1"><strong><span style="color: #ff0000;">Ayrıca son zamanlarda sürücülere lazım olan Trafik kazası tutanak örneğini de vermekte yara var.
-<a href="http://egitimvaktim.com/dosyalar/2012/04/zip.gif"><img class="alignnone size-full wp-image-4259" title="zip" src="http://egitimvaktim.com/dosyalar/2012/04/zip.gif" alt="" width="16" height="16" /></a>  <a title="Kaza tutanağı" href="http://egitimvaktim.com/dosyalar/2012/04/trafik_tutanak.xls">Maddi Hasarlı Trafik Kazası Tutanağı için tıklayınız...</a></span></strong></div>
+<a href="http://egitimvaktim.com/dosyalar/2012/04/zip.gif"><img class="alignnone size-full wp-image-4259" title="zip" src="http://egitimvaktim.com/dosyalar/2012/04/zip.gif" alt="" width="16" height="16" /></a>  <a title="Kaza tutanağı" href="http://egitimvaktim.com/dosyalar/2012/04/trafik_tutanak.xls">Maddi Hasarlı Trafik Kazası Tutanağı için tıklayınız...</a></span></strong></div>
 &nbsp;
 
 [caption id="attachment_3226" align="alignnone" width="612"]<a href="http://egitimvaktim.com/dosyalar/2012/04/tutanak-ornek.jpg"><img class=" wp-image-3226 " title="tutanak-ornek" src="http://egitimvaktim.com/dosyalar/2012/04/tutanak-ornek.jpg" alt="" width="612" height="348" /></a> Tutanak Örneği[/caption]
