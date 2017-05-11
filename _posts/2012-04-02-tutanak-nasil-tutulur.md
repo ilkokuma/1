@@ -42,7 +42,33 @@ Toplantı tutanağı aşağıda adı, soyadı ve imzaları bulunan kişililerce 
 
 .
 
-[caption id="attachment_4256" align="alignnone" width="716"]<a href="http://egitimvaktim.com/dosyalar/2012/04/tuatanak.jpg"><img class="size-full wp-image-4256" title="tuatanak" src="http://egitimvaktim.com/dosyalar/2012/04/tuatanak.jpg" alt="tuatanak" width="716" height="465" /></a> tuatanak[/caption]
+---
+layout: post
+title: Tutanak Nasıl Tutulur?
+date: 2012-04-02 03:07
+author: admin
+comments: true
+tags: [Makale, öğretmen hakkında tutanak nasıl tutulur, okul tutanak örnekleri, okula zarartutanak nasıl tutulurda, tutanak nasıl yazılır, tutanak örneği, tutanak örnekleri]
+---
+**Tutanak**
+
+Söylenen sözleri, yaşanan olayları ve bunların sonuçlarını içeren metinlere **tutanak denir.** Tutanakların hiçbir yorum ya da görüş içermemesi gerekmektedir. *(bu madde son derece önemlidir)* Her şeyin olduğu gibi tarafsız bir şekilde yazıya geçirilmiş olması gerekmektedir. 
+
+**Tutanak örneği:**
+2011/2012 Türkçe öğretmenler toplantısı 19 mayıs 2012 tarihinde saat 14:00 okul kütüphanesinde yapılmıştır. ap Toplantıda okul döneminde okutulacak kitaplar, öğretim metodları , ders araç gereçleri hakkında görüşler dile getirilmiştir.   Toplantı tutanağı aşağıda adı, soyadı ve imzaları bulunan kişililerce tutulmuştur.  19/02/2012
+
+Ali ARTTTTT   Ders Öğretmeni                  İmza
+Fırat SESSS    okul müdürü                         İmza
+
+ - [Tutanak Örnekleri (word halinde)](https://egitimvaktim.com/dosyalar/2016/tutanak-ornegi.docx)
+ - Ayrıca son zamanlarda sürücülere lazım olan Trafik kazası tutanak örneğini de vermekte yarar var. 
+ - [Maddi Hasarlı Trafik Kazası Tutanağı için tıklayınız...](http://egitimvaktim.com/dosyalar/2012/04/trafik_tutanak.xls)
+
+______________
+<a href="http://egitimvaktim.com/dosyalar/2012/04/tutanak-ornek.jpg"><img class=" wp-image-3226 " title="tutanak-ornek" src="http://egitimvaktim.com/dosyalar/2012/04/tutanak-ornek.jpg" alt="" width="612" height="348" /></a> Tutanak Örneği
+
+<a href="http://egitimvaktim.com/dosyalar/2012/04/tuatanak.jpg"><img class="size-full wp-image-4256" title="tuatanak" src="http://egitimvaktim.com/dosyalar/2012/04/tuatanak.jpg" alt="tuatanak" width="716" height="465" /></a> tuatanak
 
 .
 <a href="http://egitimvaktim.com/dosyalar/2012/04/tutanak-ornek_evaktim.jpg"><img class="alignnone size-full wp-image-4257" title="tutanak-ornek_evaktim" src="http://egitimvaktim.com/dosyalar/2012/04/tutanak-ornek_evaktim.jpg" alt="" width="724" height="429" /></a>
+
