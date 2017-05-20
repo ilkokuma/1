@@ -9,6 +9,8 @@ tags:
 paginate: 5
 paginate_path: "/page:num"
 
+gems:
+  - amp-jekyll
 
 gems:
   - jemoji
