@@ -7,7 +7,7 @@ comments: true
 tags: [Makale, egitim-bilimleri,davranis-turleri,refleks,icgudu,ogrenme-psikolojisi,kpss]
 ---
 Eğitimde Davranış Türleri
-![enter image description here](dosyalar/2017/egiitimde-davranis-turleri.jpg)
+![enter image description here](https://egitimvaktim.com/dosyalar/2017/egiitimde-davranis-turleri.jpg)
 
 <h2>ÖĞRENİLMEMİŞ DAVRANIŞLAR</h2>
  **1- Doğuştan Gelen Davranışlar İçgüdüsel ve Ref leksif Davranışlar:**
